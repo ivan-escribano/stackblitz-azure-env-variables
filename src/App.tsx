@@ -11,6 +11,7 @@ function App() {
   return (
     <>
       <div>
+        <h1>WELCOME TO STAGING ENV</h1>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
